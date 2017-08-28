@@ -1,6 +1,6 @@
 # Views
 
-Pproducers and consumers of data want to have data presented in tables and graphs -- "views" on the data. They want this for a range of reasons, from simple eyeballing to drawing out key insights.
+Producers and consumers of data want to have data presented in tables and graphs -- "views" on the data. They want this for a range of reasons, from simple eyeballing to drawing out key insights.
 
 <div class="mermaid">
 graph LR
